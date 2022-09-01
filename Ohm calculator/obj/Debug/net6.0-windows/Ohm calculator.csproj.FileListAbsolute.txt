@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\bin\Debug\net6.0-windows\Ohm calculator.exe
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\bin\Debug\net6.0-windows\Ohm calculator.deps.json
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\bin\Debug\net6.0-windows\Ohm calculator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\bin\Debug\net6.0-windows\Ohm calculator.dll
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\bin\Debug\net6.0-windows\Ohm calculator.pdb
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm_calculator.Form1.resources
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.dll
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\refint\Ohm calculator.dll
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.pdb
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\Ohm calculator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Ohm calculator\Ohm calculator\obj\Debug\net6.0-windows\ref\Ohm calculator.dll
