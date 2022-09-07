@@ -49,7 +49,7 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(22, 24);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(836, 46);
+            this.label1.Size = new System.Drawing.Size(812, 45);
             this.label1.TabIndex = 1;
             this.label1.Text = "Enter the number and I\'ll do the hard work for you.";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -71,7 +71,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Ohm calculator";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
